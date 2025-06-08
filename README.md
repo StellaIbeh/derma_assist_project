@@ -8,9 +8,10 @@ Project Description
 DermAssist AI is a real-time skin disease detection and educational assistant. The application uses deep learning and computer vision to classify skin disease images into 10 common categories and provides basic, user-friendly information about each detected condition. The goal is to support fast, accessible screening and education, especially in resource-limited settings.
 
 Links
+
 GitHub repository: [https://github.com/StellaIbeh/derma_assist_project]
 
-Demo video: [YourVideoLink]
+Demo video: [VideoLink]
 
 Figma designs: [https://www.figma.com/design/yV7pp569h973h74Js265mt/DermAssist-AI?node-id=0-1&t=Jd9Z8GpwXFOkbMLu-1]
 
@@ -41,9 +42,7 @@ ModelNotebook.ipynb
 bash
 Copy
 Edit
-# Example for Flask
-python app.py
-# Or streamlit
+# streamlit
 streamlit run app.py
 Dataset:
 
