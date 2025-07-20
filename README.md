@@ -1,3 +1,7 @@
+Relevant Links 
+https://www.figma.com/design/yV7pp569h973h74Js265mt/DermAssist-AI?node-id=0-1&t=rZMDrw8bgBCzPUHu-0
+
+
 # DermAssist AI 🩺
 
 A comprehensive AI-powered dermatology assistant mobile app built with React Native and Expo. DermAssist AI helps users analyze skin conditions, get personalized care advice, and track their skin health over time.
