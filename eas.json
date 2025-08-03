@@ -1,0 +1,13 @@
+{
+    "build": {
+      "production": {
+        "env": {
+          "EXPO_PUBLIC_SUPABASE_URL": "https://snkbmbatguemeqqgrolp.supabase.co",
+          "EXPO_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNua2JtYmF0Z3VlbWVxcWdyb2xwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDk0ODgzNTQsImV4cCI6MjA2NTA2NDM1NH0.-cvA6Wm2BgZmcSWXbw8oGv1vXVm-Vbdoo5IzFIqBVoY",
+          "GEMINI_API_KEY": "AIzaSyCKpSAYx4n7n5Qvk3085ob6O5H3hp475ck"
+        },
+        "android": { "buildType": "apk" }
+      }
+    }
+  }
+  

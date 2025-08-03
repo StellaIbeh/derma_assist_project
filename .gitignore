@@ -1,0 +1,3 @@
+balanced_dataset
+# Ignore the balanced dataset directory
+venv/
